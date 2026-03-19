@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #dcdcdc;
+}
+
+.sidebar {
+  position: fixed;
+  width: 200px;
+  height: 100%;
+  background: black;
+  color: red;
+  padding: 15px;
+}
+
+.topbar {
+  position: fixed;
+  left: 200px;
+  right: 0;
+  background: black;
+  padding: 10px;
+  text-align: right;
+}
+
+.topbar button {
+  background: red;
+  border: none;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.main {
+  margin-left: 200px;
+  padding: 80px;
+  text-align: center;
+}
+
+.logo {
+  color: red;
+}
+
+.cards {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.card {
+  background: #222;
+  color: red;
+  padding: 20px;
+}

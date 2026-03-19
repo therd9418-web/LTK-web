@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>NCP</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <h2>👑 Owner NCP</h2>
+    <div class="user">Hectorpvp</div>
+
+    <h3>⚔️ Co-Owners</h3>
+    <div class="user">Hectorpvp</div>
+  </div>
+
+  <!-- Top bar -->
+  <div class="topbar">
+    <button>DISCORD NCP</button>
+    <button>REGLAS</button>
+    <button>Postulación</button>
+  </div>
+
+  <!-- Contenido -->
+  <div class="main">
+    <h1 class="logo">NCP</h1>
+    <p class="frase">La traición es la primera en llegar...</p>
+
+    <h2>¿Por qué unirte a NCP?</h2>
+
+    <div class="cards">
+      <div class="card">Tenemos citizen soundpack etc..</div>
+      <div class="card">Comunidad activa de FiveM</div>
+      <div class="card">Salas de voz privadas</div>
+      <div class="card">Soporte de scripts</div>
+      <div class="card">Organización estructurada</div>
+      <div class="card">Crecimiento real</div>
+    </div>
+  </div>
+
+</body>
+</html>
